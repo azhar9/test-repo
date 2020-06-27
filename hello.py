@@ -1,1 +1,3 @@
-print('first file')
+import os
+os.getcwd()
+print('hello world')
